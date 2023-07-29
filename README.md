@@ -87,6 +87,7 @@ AudioVibes is a music visualizer application. Experience music like never before
 - [![Svelte][Svelte.dev]][Svelte-url]
 - [![Tailwind][Tailwindcss.com]][TailwindCSS-url]
 - [![Threejs][Threejs.org]][Threejs-url]
+- [![Cypress][Cypress.io]][Cypress-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,3 +200,5 @@ Project Link: [https://github.com/jennifertieu/audio-vibes](https://github.com/j
 [Threejs-url]: https://threejs.org/
 [TailwindCSS.com]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [TailwindCSS-url]: https://tailwindcss.com/
+[Cypress.io]: https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e
+[Cypress-url]: https://www.cypress.io/
